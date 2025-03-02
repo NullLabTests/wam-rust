@@ -2,6 +2,12 @@
 
 A Rust implementation of the Warren Abstract Machine, featuring a graphical user interface for step-by-step execution visualization.
 
+## Screenshot
+
+![WAM Demonstrator Screenshot](https://i.imgur.com/eZ3VeYh.png)
+
+The GUI provides an interactive way to visualize WAM execution, with step-by-step instruction execution and logging.
+
 ## Features
 
 - Basic WAM instruction set implementation
