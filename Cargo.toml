@@ -1,0 +1,14 @@
+[package]
+name = "wam_rust"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name"]
+description = "A Warren Abstract Machine implementation in Rust"
+
+[dependencies]
+thiserror = "1.0"
+log = "0.4"
+env_logger = "0.10"
+eframe = "0.24.0"
+egui = "0.24.0"
+rfd = "0.11"
